@@ -1,0 +1,11 @@
+{
+    "name": "brummm/summernote-cleaner",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "brummm",
+            "email": "rogeriobrum@gmail.com"
+        }
+    ],
+    "require": {}
+}
