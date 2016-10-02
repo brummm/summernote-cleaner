@@ -7,5 +7,9 @@
             "email": "rogeriobrum@gmail.com"
         }
     ],
+    "dist": {
+      "url": "git@github.com:brummm/summernote-cleaner.git",
+      "type": "git"
+    },
     "require": {}
 }
